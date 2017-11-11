@@ -4,7 +4,7 @@
  <title>Poole</title>
  <link href="https://manbearwolf.github.io//poole2_site/atom.xml" rel="self"/>
  <link href="https://manbearwolf.github.io//poole2_site/"/>
- <updated>2017-11-10T22:46:25-05:00</updated>
+ <updated>2017-11-10T23:08:56-05:00</updated>
  <id>https://manbearwolf.github.io/</id>
  <author>
    <name>Matthew Bott</name>
@@ -250,13 +250,16 @@
    <link href="https://manbearwolf.github.io//poole2_site/2016/01/01/whats-jekyll/"/>
    <updated>2016-01-01T00:00:00-05:00</updated>
    <id>https://manbearwolf.github.io//2016/01/01/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/poole2_site/assets/images/import.jpg&quot;&gt;&lt;img src=&quot;/poole2_site/assets/images/import.jpg&quot; width=&quot;100%&quot; auto=&quot;auto&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+
 </content>
  </entry>
  
