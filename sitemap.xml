@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://manbearwolf.github.io//poole/2016/01/01/whats-jekyll/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/2016/01/01/whats-jekyll/</loc>
 <lastmod>2016-01-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://manbearwolf.github.io//poole/2016/01/02/example-content/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/2016/01/02/example-content/</loc>
 <lastmod>2016-01-02T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://manbearwolf.github.io//poole/2016/01/03/introduction/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/2016/01/03/introduction/</loc>
 <lastmod>2016-01-03T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://manbearwolf.github.io//poole/about/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/about/</loc>
 </url>
 <url>
-<loc>https://manbearwolf.github.io//poole/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/</loc>
 </url>
 <url>
-<loc>https://manbearwolf.github.io//poole/blog/page2/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/blog/page2/</loc>
 </url>
 <url>
-<loc>https://manbearwolf.github.io//poole/blog/page3/</loc>
+<loc>https://manbearwolf.github.io//poole2_site/blog/page3/</loc>
 </url>
 </urlset>
